@@ -1,4 +1,4 @@
-#Deber  de bioinformatic
+#  Bioinformatic  
 # Nombre: Carolina Ortiz 
 # Deber
 # Mapa de ciencia
